@@ -1,0 +1,25 @@
+{
+  "apartment": [
+    {
+      "image": "app_for_rent_1",
+      "address": "1407 W 15th St, Chicago, IL 60608",
+      "number of rooms": "2",
+      "contact": "844-203-9595",
+      "price": "2000$"
+    },
+    {
+      "image": "app_for_rent_2",
+      "address": "1935 S Wabash Ave, Chicago, IL 60616",
+      "number of rooms": "2",
+      "contact": "855-248-5919",
+      "price": "2200$"
+    },
+    {
+      "image": "app_for_rent_3",
+      "address": "2851 S Martin Luther King Dr, Chicago, IL 60616",
+      "number of rooms": "3",
+      "contact": "844-827-1869",
+      "price": "2600$"
+    }
+  ]
+}

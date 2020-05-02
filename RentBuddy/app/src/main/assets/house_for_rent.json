@@ -1,0 +1,25 @@
+{
+  "houses": [
+    {
+      "image": "house_for_rent_1",
+      "address": "Reynolds at Great Waters, Eatonton, Georgia, United States",
+      "number of rooms": "5",
+      "contact": "770-554-5800",
+      "price": "800$"
+    },
+    {
+      "image": "house_for_rent_2",
+      "address": "Harbor Club, Greensboro, Georgia, United States",
+      "number of rooms": "5",
+      "contact": "770-554-5356",
+      "price": "800$"
+    },
+    {
+      "image": "house_for_rent_3",
+      "address": "Salem Plantation, Greensboro, Georgia, United States",
+      "number of rooms": "4",
+      "contact": "770-554-4552",
+      "price": "600$"
+    }
+  ]
+}

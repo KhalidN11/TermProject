@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".userInfo">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:outlineAmbientShadowColor="@color/colorPrimary"
+        android:orientation="vertical"
+        android:background="#d0d6d1">
+
+        <TextView
+
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Please enter your name: "
+            android:textColor="#161716"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/name"
+            android:background="#ffffff"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp">
+
+        </EditText>
+
+        <TextView
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Please enter your email: "
+            android:textColor="#161716"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/mail"
+            android:background="#ffffff"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp">
+        </EditText>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:id="@+id/button"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="20dp"
+            android:background="#59d4d0"
+            android:textColor="#ffffff"
+            android:layout_marginRight="10dp"
+            android:text="SEND">
+
+        </Button>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

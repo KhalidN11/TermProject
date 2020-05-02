@@ -1,0 +1,228 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:scrollbars = "vertical"
+    android:scrollbarStyle="insideInset"
+    >
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="1"
+        android:background="#d0d6d1"
+        >
+        <!-- Add here which you want -->
+
+
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/interested1"
+            android:text="Interested?"
+            android:layout_margin="10dp"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:background="#59d4d0"
+            android:layout_weight="1">
+
+        </Button>
+
+
+        <TextView
+            android:id="@+id/count1"
+            android:text="Interested : "
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f">
+
+        </TextView>
+
+
+        <TextView
+            android:id="@+id/address1"
+            android:text=""
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+
+        <TextView
+            android:id="@+id/rooms1"
+            android:text=""
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+        <TextView
+            android:id="@+id/contact1"
+            android:text=""
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+
+        <TextView
+            android:id="@+id/price1"
+            android:text=""
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/interested2"
+            android:text="Interested?"
+            android:layout_margin="10dp"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:background="#59d4d0"
+            android:layout_weight="1">
+
+        </Button>
+
+        <TextView
+            android:id="@+id/count2"
+            android:text="Interested : "
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f">
+
+        </TextView>
+
+
+        <TextView
+            android:id="@+id/address2"
+            android:text=""
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+        <TextView
+            android:id="@+id/rooms2"
+            android:text=""
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+        <TextView
+            android:id="@+id/contact2"
+            android:text=""
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+        <TextView
+            android:id="@+id/price2"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+
+        <ImageView
+            android:id="@+id/image3"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/interested3"
+            android:text="Interested?"
+            android:layout_margin="10dp"
+            android:textSize="20dp"
+            android:background="#59d4d0"
+            android:textColor="#ffffff"
+            android:layout_weight="1">
+
+        </Button>
+
+
+        <TextView
+            android:id="@+id/count3"
+            android:text="Interested : "
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/address3"
+            android:text=""
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+        <TextView
+            android:id="@+id/rooms3"
+            android:text=""
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+        <TextView
+            android:id="@+id/contact3"
+            android:text=""
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+        <TextView
+            android:id="@+id/price3"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#e8469f"
+
+            />
+
+
+    </TableLayout>
+
+</ScrollView>

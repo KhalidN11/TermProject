@@ -1,0 +1,25 @@
+{
+  "houses": [
+    {
+      "image": "house_for_sell_1",
+      "address": "1000 Laurel Way, Beverly Hills, California, 90210 United States",
+      "number of rooms": "7",
+      "contact": "+1-310-786-1803",
+      "price": "65,000,000$"
+    },
+    {
+      "image": "house_for_sell_2",
+      "address": "Harbor Club, Greensboro, Georgia, United States",
+      "number of rooms": "5",
+      "contact": "+1-310-786-1435",
+      "price": "60,000,000$"
+    },
+    {
+      "image": "house_for_sell_3",
+      "address": "Salem Plantation, Greensboro, Georgia, United States",
+      "number of rooms": "4",
+      "contact": "+1-310-786-4353",
+      "price": "55,000,000$"
+    }
+  ]
+}

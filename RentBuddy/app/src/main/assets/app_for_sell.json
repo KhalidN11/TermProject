@@ -1,0 +1,25 @@
+{
+  "apartment": [
+    {
+      "image": "app_for_sell_1",
+      "address": "8960 Cynthia Street #CL2, West Hollywood, CA 90069",
+      "number of rooms": "1",
+      "contact": "626 803-2000",
+      "price": "599,000$"
+    },
+    {
+      "image": "app_for_sell_2",
+      "address": "630 Orange Grove Avenue #D, Burbank, CA 91501",
+      "number of rooms": "2",
+      "contact": "424 400-5927",
+      "price": "449,500$"
+    },
+    {
+      "image": "app_for_sell_3",
+      "address": "10550 Wilshire Blvd. #201, Los Angeles, CA 90024",
+      "number of rooms": "2",
+      "contact": "424 230-3705",
+      "price": "899,000$"
+    }
+  ]
+}
